@@ -1,6 +1,6 @@
 # RandomWifiProjects
 
-# How to connect two Lyras with Ethernet cables (sorta blackhaul)
+# How to connect two Lyra AC2200 with Ethernet cables (sorta blackhaul)
 
 1. Setup the first Lyra as usual (via web interface or app, but don't connect/pair the second Lyra, don't even plug it in)
 
