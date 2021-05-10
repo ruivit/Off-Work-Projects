@@ -5,7 +5,7 @@ Metricbeat 7.12.0
 
 ## Get Disk Percentage
 
-- module: windows
+`- module: windows
   metricsets: ["perfmom"]
   enabled: true
   period: 5m
@@ -19,11 +19,11 @@ Metricbeat 7.12.0
         - name: '% User Time'
           label: time.user.pct
         - name: '% Interrupt Time'
-          label: time.interrupt.pct
+          label: time.interrupt.pct`
           
 ## Get Free Disk Percentage
 
-- module: windows
+`- module: windows
   metricsets: ["perfmom"]
   enabled: true
   period: 5m
@@ -33,7 +33,7 @@ Metricbeat 7.12.0
       instance: "C:" (or "*" for all drives)
       counters:
         - name: '% Free Space'
-          label: logicaldisk.free.space
+          label: logicaldisk.free.space`
           
           
         
