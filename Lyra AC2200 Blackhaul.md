@@ -14,7 +14,8 @@ OR http://router.asus.com/Advanced_OperationMode_Content.asp
 
 5. It's a good ideia to change the network address to one above for each Lyra (first one 192.168.73.1, second 192.168.74.1, etc)
 
-# Change the Wifi Security Option (might not appear on the Web Interface)
+# Change the Wifi Security Option 
+### (might not appear on the Web Interface)
 
 Go to the following url: http://router.asus.com/Advanced_Wireless_Content.asp
 
