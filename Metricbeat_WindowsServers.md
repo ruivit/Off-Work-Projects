@@ -1,7 +1,7 @@
 # Get System Information Metricbeat on Windows Servers
 
-Tested on Windows 2019 and 2016
-Metricbeat 7.12.0
+- Tested on Windows 2016 and 2019
+- Metricbeat 7.12.0
 
 ## Get Disk Percentage
 
