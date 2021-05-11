@@ -3,7 +3,7 @@
 - Tested on Windows 2016 and 2019
 - Metricbeat 7.12.0
 
-## Get Disk Percentage
+## Get Processor Usage Percentage
 
 ```
 - module: windows
